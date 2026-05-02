@@ -1,11 +1,7 @@
-__pycache__/
-*.pyc
 model/
 results/
 *.safetensors
-*.bin
 *.pt
-*.pth
-logs/
-.env
-venv/
+*.bin
+*.pkl
+__pycache__/
